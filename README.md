@@ -1,12 +1,13 @@
-# Calculator
 
-#### Landing Page for Calculator
+# Cooking Unit Measurements
+
+#### Landing Page for Cooking Unit Measurements
 ###
 #### By Ryan Carlile and Niem Nguyen
 
 ## Description
 
-Github for first Calculator JavaScript Practice
+Github for first Measurement Conversions JavaScript Practice
 ## Setup/Installation Requirements
 
 * HTML file for review.
